@@ -21,7 +21,7 @@ guidelines for employees.
   - `sample3_suspicious_it_notice.eml` — Suspicious
   - `sample4_legitimate_password_reset.eml` — Safe (included for contrast)
 
-- `evidence/` — screenshots from the analysis (MXToolbox SuperTool,
+- `Evidence/` — screenshots from the analysis (MXToolbox SuperTool,
   header analyzer, WHOIS, certificate lookup, search), each explained
   in section 6 of the report:
   - `sample1_google_search.png`, `sample1_whois.png`, `sample1_http_lookup_522.png`, `sample1_header_analysis.png`
