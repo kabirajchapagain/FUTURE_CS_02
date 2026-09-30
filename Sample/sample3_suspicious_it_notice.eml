@@ -1,0 +1,18 @@
+Return-Path: <it-notify@company-helpdesk.com>
+Received: from mail.company-helpdesk.com (mail.company-helpdesk.com [198.51.100.22])
+From: "IT Helpdesk" <it-notify@company-helpdesk.com>
+Reply-To: it-notify@company-helpdesk.com
+To: staff@company.com
+Subject: Mailbox Storage Almost Full - Action Needed
+Date: Thu, 15 Jan 2026 11:40:03 +0000
+Authentication-Results: mx.company.com; spf=pass smtp.mailfrom=company-helpdesk.com; dkim=pass; dmarc=pass
+
+Hi,
+
+Your mailbox has reached 95% of its storage limit. To avoid disruption
+to incoming mail, please clear space or request an increase.
+
+Manage storage: http://company-helpdesk.com.mailbox-tools.net/manage
+
+Thanks,
+IT Helpdesk

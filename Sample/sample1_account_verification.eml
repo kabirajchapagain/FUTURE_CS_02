@@ -1,0 +1,20 @@
+Return-Path: <bounce@mail-relay-node.top>
+Received: from mail-relay-node.top (unknown [185.220.101.47])
+From: "Security Team" <support@secure-account-verify.com>
+Reply-To: alert-team@verify-mail-support.ru
+To: user@company.com
+Subject: =?UTF-8?Q?=E2=9A=A0=EF=B8=8F_Urgent:_Your_Account_Will_Be_Locked?=
+Date: Mon, 12 Jan 2026 03:14:22 +0000
+Authentication-Results: mx.company.com; spf=fail smtp.mailfrom=mail-relay-node.top; dkim=none; dmarc=fail
+
+Dear User,
+
+We noticed suspicious activity on your account.
+To avoid account suspension, please verify your details immediately.
+
+Verify Now: http://secure-account-verify[.]com/login/confirm?id=8841
+
+Failure to verify within 24 hours will result in permanent account lock.
+
+Regards,
+Security Team

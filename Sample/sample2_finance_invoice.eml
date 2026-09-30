@@ -1,0 +1,23 @@
+Return-Path: <no-reply@billing-node-04.top>
+Received: from billing-node-04.top (unknown [103.224.182.19])
+From: "Accounts Payable" <billing@invoice-payment-portal.com>
+Reply-To: payments-desk@finance-support-team.net
+To: finance@company.com
+Subject: Outstanding Invoice #4471 - Payment Required Today
+Date: Wed, 14 Jan 2026 09:02:11 +0000
+Authentication-Results: mx.company.com; spf=softfail smtp.mailfrom=billing-node-04.top; dkim=none; dmarc=fail
+
+Dear Sir/Madam,
+
+Invoice #4471 for $4,850.00 is now overdue. Our records show non-payment
+may result in service suspension effective today.
+
+Please review and settle the attached invoice immediately:
+
+View Invoice: http://invoice-payment-portal[.]com/inv/4471/view
+
+If you have already updated your banking details with us, please
+disregard this notice.
+
+Best regards,
+Accounts Payable Department
